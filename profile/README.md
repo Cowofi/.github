@@ -19,7 +19,6 @@ Is jut easy to create an account, log in and post a your beaitiful place to rent
 Whe will be greatfully to help you to find the right person how need your article
 
 ## Team
-----------
 
 <div style="display:flex; gap:20px;" >
         <div >
