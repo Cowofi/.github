@@ -1,13 +1,17 @@
-![alt](https://avatars.githubusercontent.com/u/111164352?s=200&v=4)
-
 # CoWoFi Coworkers around the world
 
-Where you can find and publish your dreaming Co-Woking Place.
+Where you can rent the ideal place to work, relax or just meet with your team, [**CoWoFi**](https://cowofi.netlify.app/) *Find perfect working space near you!*  is the ideal application for you. Not only renting, you can also publish your work, meeting or relaxation space, interact with interested people and earn extra money in the process [**CoWoFi**](https://cowofi.netlify.app/) *Find perfect working space near you!* 
+
+![alt](https://github.com/Cowofi/cowofi/blob/ux/rafiel/public/logotipo.png?raw=true)
 
 ## Features
 
-- [x] Easy Setup
-- [x] Backend on cloud, powering with [Super Base](https://supabase.com/database) PostgresSQL Data Base Motor.
+- [ ] Free publish.
+- [ ] In App Chat.
+- [ ] Geolocation.
+- [ ] Spaces updated in real time
+- [ ] Spaces review
+- [ ] Spaces description (The most notable is the quality of the internet in each space).
 
 ## Communication in real time with the owner
 
@@ -15,7 +19,7 @@ If you want a place according to your needs or only need to rent yours this is t
 
 ## Anyone can post an article
 
-Is jut easy to create an account, log in and post a your beaitiful place to rent.
+Is jut easy to create an account, log in and post a your beautiful place to rent.
 Whe will be greatfully to help you to find the right person how need your article
 
 ## Team
