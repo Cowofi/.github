@@ -6,12 +6,12 @@ Where you can rent the ideal place to work, relax or just meet with your team, [
 
 ## Features
 
-- [x] Free publish.
-- [ ] In App Chat.
-- [x] Geolocation.
+- [x] Free publish
+- [ ] In App Chat
+- [x] Geolocation
 - [x] Spaces updated in real time
-- [ ] Spaces review
-- [x] Spaces description (The most notable is the quality of the internet in each space).
+- [ ] Spaces reviews (base on stars)
+- [x] Spaces description (The most notable is the quality of the internet in each space)
 
 ## Communication in real time with the owner
 
