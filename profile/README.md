@@ -1,6 +1,6 @@
 # CoWoFi Coworkers around the world
 
-Where you can rent the ideal place to work, relax or just meet with your team, [**CoWoFi**](https://cowofi.netlify.app/) *Find perfect working space near you!*  is the ideal application for you. Not only renting, you can also publish your work, meeting or relaxation space, interact with interested people and earn extra money in the process [**CoWoFi**](https://cowofi.netlify.app/) *Find perfect working space near you!* 
+Where you can rent the ideal place to work, relax or just meet with your team, [**CoWoFi**](https://cowofi.netlify.app/) is the ideal application for you. Not only renting, you can also publish your work, meeting or relaxation space, interact with interested people and earn extra money in the process [**CoWoFi**](https://cowofi.netlify.app/) *Find perfect working space near you!* 
 
 ![alt](https://github.com/Cowofi/cowofi/blob/ux/rafiel/public/logotipo.png?raw=true)
 
