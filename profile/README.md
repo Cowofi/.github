@@ -7,7 +7,7 @@ Where you can rent the ideal place to work, relax or just meet with your team, [
 ## Features
 
 - [x] Free publish
-- [ ] In App Chat
+- [x] In App Chat
 - [x] Geolocation
 - [x] Spaces updated in real time
 - [ ] Spaces reviews (base on stars)
