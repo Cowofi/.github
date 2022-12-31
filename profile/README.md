@@ -10,7 +10,7 @@ Where you can rent the ideal place to work, relax or just meet with your team, [
 - [x] In App Chat
 - [x] Geolocation
 - [x] Spaces updated in real time
-- [ ] Spaces reviews (base on stars)
+- [x] Spaces reviews (base on stars)
 - [x] Spaces description (The most notable is the quality of the internet in each space)
 
 ## Communication in real time with the owner
